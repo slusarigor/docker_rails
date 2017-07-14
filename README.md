@@ -2,9 +2,9 @@
 
 ## Require
 
-*Ruby 2.4+
-*Rails 5.1+
-*Docker 1.11+ / Docker Compose API v2+
+* Ruby 2.4+
+* Rails 5.1+
+* Docker 1.11+ / Docker Compose API v2+
 
 ## FAQ
 
